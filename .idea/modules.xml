@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/AbstractCreator/AbstractCreator.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/AbstractCreator/AbstractCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/AbstractFactoryChallenge.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/AbstractFactoryChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryMethod/AbstractFactoryMethod.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryMethod/AbstractFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/ConcreteCreator/ConcreteCreator.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/ConcreteCreator/ConcreteCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DelegationPrinciples/DelegationPrinciples.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DelegationPrinciples/DelegationPrinciples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DependencyInjectionExample/DependencyInjectionExample.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DependencyInjectionExample/DependencyInjectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DependencyInversionExample/DependencyInversionExample.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/DependencyInversionExample/DependencyInversionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/Factory.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/FactoryChallenge/FactoryChallenge.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/FactoryChallenge/FactoryChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/InstructorsSolution/InstructorsSolution.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/InstructorsSolution/InstructorsSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/MySolution/MySolution.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/AbstractFactory/AbstractFactoryChallenge/MySolution/MySolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/OpenClosePrinciple/OpenClosePrinciple.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/OpenClosePrinciple/OpenClosePrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/PrinciplesAndStrategiesOfDesign.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/PrinciplesAndStrategiesOfDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/StaticMethodCreator/StaticMethodCreator.iml" filepath="$PROJECT_DIR$/Patterns/CreationalPatterns/Factory/StaticMethodCreator/StaticMethodCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/TheSingleResponsibilityPrinciple/TheSingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/PrinciplesAndStrategiesOfDesign/TheSingleResponsibilityPrinciple/TheSingleResponsibilityPrinciple.iml" />
+    </modules>
+  </component>
+</project>
